@@ -1,0 +1,1 @@
+Font files are intentionally not included in this handoff package. Place the client-provided Aspekta font files from the Hausschrift folder here if you want to connect the brand font with @font-face in assets/css/style.css.
